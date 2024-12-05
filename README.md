@@ -46,7 +46,7 @@
 - **NCP에서 제공하는 CLOVA Chatbot**을 활용해 챗봇 서비스를 개발한 경험이 있습니다.
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=themerous&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lbang98&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 - **Email:** dlqudgus98@gmail.com
